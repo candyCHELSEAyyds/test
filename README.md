@@ -1,6 +1,4 @@
-Below is an example of how you might draft a `README.md` file for your repository, which contains a population dashboard project. This README includes references to the original source repository and blog post, and provides setup instructions tailored to a Windows environment using a virtual environment in VS Code.
 
-```markdown
 # Population Dashboard
 
 This repository hosts the Population Dashboard, a Streamlit application that visualizes population data interactively. The project is inspired by and based on concepts demonstrated in Chanin Nantasenamat's (Data Professor) blog post on Streamlit and his corresponding GitHub repository.
@@ -51,13 +49,7 @@ streamlit run app.py
 
 Open your web browser and go to `http://localhost:8501` to view the app.
 
-## Contributing
 
-Contributions to this project are welcome. Please fork the repository and submit a pull request with your improvements.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
 
 ```
 
@@ -66,7 +58,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) f
 - **Prerequisites**: List of what needs to be installed or present before the project can be set up.
 - **Setup and Installation**: Step-by-step guide on cloning the repository, setting up a virtual environment, and installing dependencies.
 - **Running the Application**: Instructions on how to launch the app.
-- **Contributing**: Encourages others to contribute to the project.
-- **License**: Notifies users of the licensing terms.
+
 
 This README should be adjusted based on the specific content of your project, any additional configurations, and your personal or organizational naming and contribution guidelines.
